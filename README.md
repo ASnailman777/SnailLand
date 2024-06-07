@@ -25,4 +25,4 @@ IMAGE NOT FOUND
 
 # I'm also on social media
 
-<kbd> <br> ![Youtube](https://www.youtube.com/channel/UCE6gzWZaLhG1PglvFILDT8Q) <br> </kbd>
+<kbd> <br> # [Youtube](https://www.youtube.com/channel/UCE6gzWZaLhG1PglvFILDT8Q) <br> </kbd>
