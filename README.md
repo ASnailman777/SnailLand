@@ -21,4 +21,4 @@ IMAGE NOT FOUND
 ```
 
 # Downloads
-* [Bullet](https://github.com/ASnailman777/SnailLand/releases/tag/BulletHell)
+* [Bullet Hell](https://github.com/ASnailman777/SnailLand/releases/tag/BulletHell)
