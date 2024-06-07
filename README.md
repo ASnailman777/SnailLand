@@ -25,7 +25,7 @@ IMAGE NOT FOUND
 
 # I'm also on social media
 
-<kbd> <br> YouTube <br> </kbd>[Link]
+<kbd> <br> YouTube [Link] <br> </kbd>
 
 
 <!---------------------------------------------------------------------------->
