@@ -25,4 +25,8 @@ IMAGE NOT FOUND
 
 # I'm also on social media
 
-<kbd> <br> YouTube <br> </kbd>[https://www.youtube.com/channel/UCE6gzWZaLhG1PglvFILDT8Q]
+<kbd> <br> YouTube <br> </kbd>[Link]
+
+
+<!---------------------------------------------------------------------------->
+[Link]: https://www.youtube.com/channel/UCE6gzWZaLhG1PglvFILDT8Q
