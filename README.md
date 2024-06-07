@@ -25,4 +25,4 @@ IMAGE NOT FOUND
 
 # I'm also on social media
 
-[Badge License]: 
+[<kbd> <br> YouTube <br> </kbd>][https://www.youtube.com/channel/UCE6gzWZaLhG1PglvFILDT8Q]
