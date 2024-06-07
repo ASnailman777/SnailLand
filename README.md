@@ -3,7 +3,7 @@ Welcome Gaymers
 
 Isn't this pretty nifty
 Now i have a website, hehehehehe.
-Anyways check out my amazing game called:
+Anyways check out my amazing games like:
 # Bullet Hell
 > *An epik game by an epiker dude.*
 
@@ -11,5 +11,14 @@ Anyways check out my amazing game called:
 
 ![Nome Chillin](./Screenshot1.png)
 
+# The Secret Game
+> *Shhhh it's secret*
+
+"It's so secret" - John Doe
+
+```
+IMAGE NOT FOUND
+```
+
 # Downloads
-* [v0.7.3](https://github.com/ASnailman777/SnailLand/releases/tag/BulletHell)
+* [Bullet](https://github.com/ASnailman777/SnailLand/releases/tag/BulletHell)
