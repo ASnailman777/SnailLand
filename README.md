@@ -20,6 +20,13 @@ Anyways check out my amazing games like:
 IMAGE NOT FOUND
 ```
 
+# Sticky Snail
+>On the way eventually
+
+```
+This game has yet to exist
+```
+
 # Downloads
 * [Bullet Hell](https://github.com/ASnailman777/SnailLand/releases/tag/BulletHell)
 
