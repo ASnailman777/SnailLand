@@ -6,7 +6,7 @@ Anyways check out my amazing games like:
 
 "Bullet Hell is a cool game" - George Washington
 
-![Nome Chillin](./Screenshot1.png)
+![Nome Chillin](./Screenshot2.png)
 
 # The Secret Game
 > *Shhhh it's secret*
