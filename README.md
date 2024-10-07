@@ -27,6 +27,9 @@ IMAGE NOT FOUND
 This game has yet to exist
 ```
 
+# The Secreter Game
+> *It's like The Secret Game but secreter*
+
 # Downloads
 * [Bullet Hell](https://github.com/ASnailman777/SnailLand/releases/tag/BulletHell)
 
