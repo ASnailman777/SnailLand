@@ -8,6 +8,11 @@ Anyways check out my amazing games like:
 
 ![Nome Chillin](./Screenshot2.png)
 
+# Sticky Snail
+>On the way soon
+
+![Snail Runnin](./Screenshot3.png)
+
 # The Secret Game
 > *Shhhh it's secret*
 
@@ -15,13 +20,6 @@ Anyways check out my amazing games like:
 
 ```
 IMAGE NOT FOUND
-```
-
-# Sticky Snail
->On the way soon
-
-```
-This game is almost done. For now...
 ```
 
 # The Secreter Game
