@@ -30,6 +30,8 @@ This game has yet to exist
 # The Secreter Game
 > *It's like The Secret Game but secreter*
 
+It's a horror game, that's all you're getting.
+
 # Downloads
 * [Bullet Hell](https://github.com/ASnailman777/SnailLand/releases/tag/BulletHell)
 
