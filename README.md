@@ -21,10 +21,10 @@ IMAGE NOT FOUND
 ```
 
 # Sticky Snail
->On the way eventually
+>On the way soon
 
 ```
-This game has yet to exist
+This game is almost done. For now...
 ```
 
 # The Secreter Game
