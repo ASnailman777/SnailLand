@@ -33,7 +33,7 @@ This game has yet to exist
 It's a horror game, that's all you're getting.
 
 # Downloads
-* [Bullet Hell]([https://github.com/ASnailman777/SnailLand/releases/tag/BulletHell](https://github.com/ASnailman777/SnailLand/releases/download/BulletHell/Bullet.Hell.Launcher.zip))
+* [Bullet Hell](https://github.com/ASnailman777/SnailLand/releases/download/BulletHell/Bullet.Hell.Launcher.zip)
 
 # I'm also on social media
 
