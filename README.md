@@ -34,6 +34,8 @@ IMAGE NOT FOUND
 # Downloads
 * [Bullet Hell](https://github.com/ASnailman777/SnailLand/releases/download/BulletHell/Bullet.Hell.Launcher.zip)
 
+* [Sticky Snail](https://github.com/ASnailman777/SnailLand/releases/download/StickySnail/Sticky.Snail.apk)
+
 # I'm also on social media
 
 * [Youtube](https://www.youtube.com/channel/UCE6gzWZaLhG1PglvFILDT8Q)
