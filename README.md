@@ -9,7 +9,7 @@ Anyways check out my amazing games like:
 ![Nome Chillin](./Screenshot2.png)
 
 # Sticky Snail
->On the way soon
+> There's no better way to snail around
 
 ![Snail Runnin](./Screenshot3.png)
 
