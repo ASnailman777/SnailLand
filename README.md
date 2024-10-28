@@ -11,7 +11,7 @@ Anyways check out my amazing games like:
 # Sticky Snail
 > There's no better way to snail around
 
-![Snail Runnin](./Screenshot3.png)
+![Snail Runnin](./Screenshot_20241027_205716.jpg)
 
 # The Secret Game
 > *Shhhh it's secret*
