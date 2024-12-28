@@ -12,7 +12,7 @@ Here are my games:
 # Sticky Snail
 > There's no better way to snail around
 
-![Snail Runnin](./Screenshot_20241027_205716.jpg)
+![Snail Runnin](./Screenshot 2024-12-28 134315.png)
 
 # The Secret Game
 > *Shhhh it's secret*
