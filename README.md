@@ -11,6 +11,7 @@ Here are my games:
 
 # Sticky Snail
 > There's no better way to snail around
+> PLAY IT HERE: [Play Sticky Snail](https://asnailman777.github.io/Sticky-Snail/)
 
 ![Snail Runnin](./Screenshot 2024-12-28 134315.png)
 
