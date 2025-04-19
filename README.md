@@ -2,10 +2,10 @@ Welcome to SnailLand, a small github page dedicated to my games.
 Here you can download and play them.
 Here are my games:
 
-# Bullet Hell
+# Ωmega Hell
 > *An epik game by an epiker dude.*
 
-"Bullet Hell is a cool game" - George Washington
+"Ωmega Hell is a cool game" - George Washington
 
 ![Nome Chillin](./Screenshot2.png)
 
@@ -33,10 +33,10 @@ IMAGE NOT FOUND
 ```
 
 # Downloads
-* [Bullet Hell](https://github.com/ASnailman777/SnailLand/releases/download/BulletHell/Bullet.Hell.Launcher.zip)
+* [Ωmega Hell](https://a-snailman.itch.io/omega-hell)
 
-* [Sticky Snail](https://github.com/ASnailman777/SnailLand/releases/download/StickySnail/Sticky.Snail.apk)
+* [Sticky Snail](https://a-snailman.itch.io/sticky-snail)
 
 # I'm also on social media
 
-* [Youtube](https://www.youtube.com/channel/UCE6gzWZaLhG1PglvFILDT8Q)
+* [Youtube](https://www.youtube.com/@asnailman)
