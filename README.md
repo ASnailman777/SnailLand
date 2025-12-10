@@ -7,7 +7,7 @@ Here are my games:
 
 "Ωmega Hell is a cool game" - George Washington
 
-![Nome Chillin](./Screenshot2.png)
+![Nome Chillin](./Screenshot(4).png)
 
 # Sticky Snail
 > There's no better way to snail around
