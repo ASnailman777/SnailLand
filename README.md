@@ -13,7 +13,7 @@ Here are my games:
 > There's no better way to snail around
 * PLAY IT HERE: [Play Sticky Snail](https://asnailman777.github.io/Sticky-Snail/)
 
-![Snail Runnin](./Screenshot 2025-04-19 140106.png)
+![Snail Running](./Screenshot(8).png)
 
 # The Secret Game
 > *TBA*
