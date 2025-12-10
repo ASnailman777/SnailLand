@@ -3,7 +3,7 @@ Here you can download and play them.
 Here are my games:
 
 # Ωmega Hell
-> *An epik game by an epiker dude.*
+> *An FPS, where a robot fights more robots in a digital hellscape*
 
 "Ωmega Hell is a cool game" - George Washington
 
@@ -16,25 +16,16 @@ Here are my games:
 ![Snail Runnin](./Screenshot 2025-04-19 140106.png)
 
 # The Secret Game
-> *Shhhh it's secret*
+> *TBA*
 
-"It's so secret" - John Doe
-
-```
-IMAGE NOT FOUND
-```
-
-# The Secreter Game
-> *It's like The Secret Game but secreter*
-
-It's a horror game, that's all you're getting.
+Coming soon...
 
 ```
 IMAGE NOT FOUND
 ```
 
 # Downloads
-* [Ωmega Hell](https://a-snailman.itch.io/omega-hell)
+* Ωmega Hell: Coming Soon...
 
 * [Sticky Snail](https://a-snailman.itch.io/sticky-snail)
 
