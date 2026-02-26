@@ -1,6 +1,6 @@
-Welcome to SnailLand, a small github page dedicated to my games. 
+Welcome to SnailLand, a small github page dedicated to Team Snalkin's games. 
 Here you can download and play them.
-Here are my games:
+Here are our games:
 
 # Ωmega Hell
 > *An FPS, where a robot fights more robots in a digital hellscape*
@@ -27,6 +27,6 @@ Coming soon...
 
 * [Sticky Snail](https://a-snailman.itch.io/sticky-snail)
 
-# I'm also on social media
+# Extras
 
-* [Youtube](https://www.youtube.com/@asnailman)
+* [A Snailman's Youtube](https://www.youtube.com/@asnailman)
