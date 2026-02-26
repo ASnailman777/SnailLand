@@ -20,9 +20,7 @@ Here are my games:
 
 Coming soon...
 
-```
-IMAGE NOT FOUND
-```
+![Image](./tutorialcensor.png)
 
 # Downloads
 * Ωmega Hell: Coming Soon...
